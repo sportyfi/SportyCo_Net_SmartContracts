@@ -1,5 +1,7 @@
 # SportyCo_Net_SmartContracts
-Investment SmartContract
+Investment/Donation SmartContract
 
 
-Investment.sol is current SmartContract running on Sportyco.net
+Investment.sol is current Investment SmartContract running on Sportyco.net
+
+Donation.sol is current Donation SmartContract running on Sportyco.net
